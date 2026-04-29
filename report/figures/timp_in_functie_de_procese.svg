@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="32" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">Scalare pentru n=200000000</text>
+<text x="22" y="260.0" text-anchor="middle" font-family="Arial" font-size="14" transform="rotate(-90 22 260.0)">Timp (secunde)</text>
+<line x1="80" y1="70" x2="80" y2="430" stroke="#111827"/>
+<line x1="80" y1="430" x2="870" y2="430" stroke="#111827"/>
+<line x1="75" y1="430.00" x2="870" y2="430.00" stroke="#e5e7eb"/>
+<text x="70" y="434.00" text-anchor="end" font-family="Arial" font-size="12">0.000000</text>
+<line x1="75" y1="358.00" x2="870" y2="358.00" stroke="#e5e7eb"/>
+<text x="70" y="362.00" text-anchor="end" font-family="Arial" font-size="12">9.996644</text>
+<line x1="75" y1="286.00" x2="870" y2="286.00" stroke="#e5e7eb"/>
+<text x="70" y="290.00" text-anchor="end" font-family="Arial" font-size="12">19.993287</text>
+<line x1="75" y1="214.00" x2="870" y2="214.00" stroke="#e5e7eb"/>
+<text x="70" y="218.00" text-anchor="end" font-family="Arial" font-size="12">29.989931</text>
+<line x1="75" y1="142.00" x2="870" y2="142.00" stroke="#e5e7eb"/>
+<text x="70" y="146.00" text-anchor="end" font-family="Arial" font-size="12">39.986575</text>
+<line x1="75" y1="70.00" x2="870" y2="70.00" stroke="#e5e7eb"/>
+<text x="70" y="74.00" text-anchor="end" font-family="Arial" font-size="12">49.983218</text>
+<rect x="90.00" y="210.54" width="173.50" height="219.46" fill="#2563eb"/>
+<text x="176.75" y="205.54" text-anchor="middle" font-family="Arial" font-size="11">30.470812</text>
+<rect x="287.50" y="310.72" width="173.50" height="119.28" fill="#2563eb"/>
+<text x="374.25" y="305.72" text-anchor="middle" font-family="Arial" font-size="11">16.560868</text>
+<rect x="485.00" y="352.29" width="173.50" height="77.71" fill="#2563eb"/>
+<text x="571.75" y="347.29" text-anchor="middle" font-family="Arial" font-size="11">10.789501</text>
+<rect x="682.50" y="375.09" width="173.50" height="54.91" fill="#2563eb"/>
+<text x="769.25" y="370.09" text-anchor="middle" font-family="Arial" font-size="11">7.624107</text>
+<line x1="80" y1="116.96" x2="870" y2="116.96" stroke="#dc2626" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="862" y="108.96" text-anchor="end" font-family="Arial" font-size="13" fill="#dc2626">Secvential: 43.463668s</text>
+<text x="178.75" y="475" text-anchor="middle" font-family="Arial" font-size="13">3</text>
+<text x="376.25" y="475" text-anchor="middle" font-family="Arial" font-size="13">5</text>
+<text x="573.75" y="475" text-anchor="middle" font-family="Arial" font-size="13">10</text>
+<text x="771.25" y="475" text-anchor="middle" font-family="Arial" font-size="13">15</text>
+<rect x="80" y="45" width="14" height="14" fill="#2563eb"/>
+<text x="100" y="57" font-family="Arial" font-size="13">Paralel</text>
+</svg>

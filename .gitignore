@@ -1,0 +1,4 @@
+sequential/prime_sequential
+parallel/prime_parallel
+*.o
+.DS_Store

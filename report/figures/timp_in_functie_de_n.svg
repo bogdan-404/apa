@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="32" text-anchor="middle" font-family="Arial" font-size="22" font-weight="700">Comparatie timp executie in functie de n</text>
+<text x="22" y="260.0" text-anchor="middle" font-family="Arial" font-size="14" transform="rotate(-90 22 260.0)">Timp (secunde)</text>
+<line x1="80" y1="70" x2="80" y2="430" stroke="#111827"/>
+<line x1="80" y1="430" x2="870" y2="430" stroke="#111827"/>
+<line x1="75" y1="430.00" x2="870" y2="430.00" stroke="#e5e7eb"/>
+<text x="70" y="434.00" text-anchor="end" font-family="Arial" font-size="12">0.000000</text>
+<line x1="75" y1="358.00" x2="870" y2="358.00" stroke="#e5e7eb"/>
+<text x="70" y="362.00" text-anchor="end" font-family="Arial" font-size="12">17.867243</text>
+<line x1="75" y1="286.00" x2="870" y2="286.00" stroke="#e5e7eb"/>
+<text x="70" y="290.00" text-anchor="end" font-family="Arial" font-size="12">35.734486</text>
+<line x1="75" y1="214.00" x2="870" y2="214.00" stroke="#e5e7eb"/>
+<text x="70" y="218.00" text-anchor="end" font-family="Arial" font-size="12">53.601730</text>
+<line x1="75" y1="142.00" x2="870" y2="142.00" stroke="#e5e7eb"/>
+<text x="70" y="146.00" text-anchor="end" font-family="Arial" font-size="12">71.468973</text>
+<line x1="75" y1="70.00" x2="870" y2="70.00" stroke="#e5e7eb"/>
+<text x="70" y="74.00" text-anchor="end" font-family="Arial" font-size="12">89.336216</text>
+<rect x="90.00" y="364.89" width="117.67" height="65.11" fill="#2563eb"/>
+<text x="148.83" y="359.89" text-anchor="middle" font-family="Arial" font-size="11">16.156738</text>
+<rect x="353.33" y="254.85" width="117.67" height="175.15" fill="#2563eb"/>
+<text x="412.17" y="249.85" text-anchor="middle" font-family="Arial" font-size="11">43.463668</text>
+<rect x="616.67" y="116.96" width="117.67" height="313.04" fill="#2563eb"/>
+<text x="675.50" y="111.96" text-anchor="middle" font-family="Arial" font-size="11">77.683666</text>
+<rect x="211.67" y="405.14" width="117.67" height="24.86" fill="#16a34a"/>
+<text x="270.50" y="400.14" text-anchor="middle" font-family="Arial" font-size="11">6.169334</text>
+<rect x="475.00" y="363.26" width="117.67" height="66.74" fill="#16a34a"/>
+<text x="533.83" y="358.26" text-anchor="middle" font-family="Arial" font-size="11">16.560868</text>
+<rect x="738.33" y="310.45" width="117.67" height="119.55" fill="#16a34a"/>
+<text x="797.17" y="305.45" text-anchor="middle" font-family="Arial" font-size="11">29.667007</text>
+<text x="211.67" y="475" text-anchor="middle" font-family="Arial" font-size="13">100000000</text>
+<text x="475.00" y="475" text-anchor="middle" font-family="Arial" font-size="13">200000000</text>
+<text x="738.33" y="475" text-anchor="middle" font-family="Arial" font-size="13">300000000</text>
+<rect x="80" y="45" width="14" height="14" fill="#2563eb"/>
+<text x="100" y="57" font-family="Arial" font-size="13">Secvential</text>
+<rect x="270" y="45" width="14" height="14" fill="#16a34a"/>
+<text x="290" y="57" font-family="Arial" font-size="13">Paralel (5 procese)</text>
+</svg>
