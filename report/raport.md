@@ -1,5 +1,9 @@
 # Calculul numerelor prime într-un interval mare folosind OpenMPI
 
+**Student: Zlatovcen Bogdan**
+
+**Profesor: Ovidiu Gherman**
+
 ## 1. Tema lucrării
 
 Scopul proiectului este calcularea numărului de valori prime din intervalul `[2, n]`, folosind două implementări:

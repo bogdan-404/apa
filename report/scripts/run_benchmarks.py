@@ -165,7 +165,6 @@ def generate_figures(rows):
         "Timp (secunde)",
         FIGURES_DIR / "timp_in_functie_de_n.svg",
     )
-
     parallel_by_processes = {
         row["processes"]: row["time_seconds"]
         for row in rows
@@ -185,7 +184,6 @@ def generate_figures(rows):
         FIGURES_DIR / "timp_in_functie_de_procese.svg",
         baseline=("Secvential", sequential_baseline),
     )
-
 
 def main():
     rows = []
